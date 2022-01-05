@@ -66,6 +66,7 @@ button.btn1 {
   border: none;
   margin-top: 10px;
   color: white;
+  cursor: pointer;
 }
 a {
   text-align: center;
